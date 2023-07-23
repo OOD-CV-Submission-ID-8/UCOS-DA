@@ -1,2 +1,2 @@
-# code-paper-id-8
-UCOS benchmark and baseline model
+# Unsupervised Camouflaged Object Segmentation as Domain Adaptation (UCOS-DA)
+
